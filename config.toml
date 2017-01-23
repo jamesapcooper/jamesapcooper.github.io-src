@@ -1,0 +1,47 @@
+baseurl = "/"
+title = "James Cooper"
+languageCode = "en-us"
+paginate = "10" # Number of posts per page
+theme = "mainroad"
+# disqusShortname = "" # Enable comments by entering your Disqus shortname
+googleAnalytics = "UA-90373702-1" # Enable Google Analytics by entering your tracking id
+
+
+[[menu.main]]
+    name = "About"
+    weight = -110
+    url = "/about/"
+[[menu.main]]
+    name = "Contact"
+    weight = -100
+    url = "/contact/"
+[[menu.main]]
+    name = "Resume"
+    weight = -110
+    url = "/resume/"
+[[menu.main]]
+    name = "Papers"
+    weight = -100
+    url = "/categories/papers/"
+[[menu.main]]
+    name = "Sermons"
+    weight = -100
+    url = "/categories/sermons/"
+[[menu.main]]
+    name = "Links"
+    weight = -100
+    url = "/links/"
+
+
+[Params]
+    subtitle = "Verbum Domini Manet in Aeternum"
+    description = "The personal webpage of James Cooper." # Description of your site
+    opengraph = true
+    leftsidebar = false # Move sidebar to the left side if true
+
+
+[Params.widgets]
+    search = false # Enable "Search" widget
+    recent_articles = true # Enable "Recent arcticles" widget
+    categories = true # Enable "Categories" widget
+    tags = true # Enable "Tags" widget
