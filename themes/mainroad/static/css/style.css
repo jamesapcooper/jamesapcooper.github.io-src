@@ -370,7 +370,10 @@ select {
 
 /*** Header ***/
 .mr-header {
-	background: #fff;
+	background: url(/images/old-church.jpg) black;
+	# background-size: 100%;
+	background-position: center;
+	background-repeat: no-repeat
 }
 
 .mr-site-logo {
@@ -379,6 +382,7 @@ select {
 }
 
 .mr-header-text {
+	text-align: center;
 	margin: 5px 0;
 	text-transform: uppercase;
 }
@@ -387,6 +391,7 @@ select {
 	font-size: 32px;
 	font-size: 2rem;
 	line-height: 1;
+	color: #ffffff;
 }
 
 .mr-header-tagline {
@@ -394,7 +399,7 @@ select {
 	font-size: 14px;
 	font-size: 0.875rem;
 	line-height: 1;
-	color: #0063A7;
+	color: #ffffff;
 	padding-top: 10px;
 	margin-top: 10px;
 	border-top: 1px solid #e5e5e5;
