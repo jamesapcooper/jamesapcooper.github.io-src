@@ -6,7 +6,7 @@ categories = ["Sermons"]
 tags = ["Matthew", "lent"]
 +++
 
-Delivered at The Villages of St. Peters on March 12, 2017. [click here for recording](https://drive.google.com/open?id=0B_fmE7Mo2KD0aENYMThwNFlzQ0E)
+Delivered at the [Villages of St. Peters](http://www.vofsp.com/) in St. Peters, Missouri on March 12, 2017. [click here for recording](https://drive.google.com/open?id=0B_fmE7Mo2KD0aENYMThwNFlzQ0E)
 
 
 Good morning again everyone. Again, my name is James, I’m a student at
