@@ -169,7 +169,7 @@ Prayer for Illumination[^6]
 \* **As we come to God’s word, let us ask for his help.**
 
 **\[All\] Teach me your way, O Lord, that I may walk in your truth
-(Psalm 86:11)**
+(Psalm 86:11).**
 
 \[Pastor\] Holy Spirit, we ask that you would be present in and with
 your Word. Give us ears to hear and hearts to receive your truth. Work
@@ -261,17 +261,17 @@ us pray for the needs of those around us.
 
 *\[Pastor\] Prayers:*
 
-*For the congregation* \
-*For the Church* \
-*For the nation* \
-*For the world*
+- *For the congregation* \
+- *For the Church* \
+- *For the nation* \
+- *For the world*
 
 Lord’s Prayer[^11]
 ------------------
 
 \* Let us pray the words which our Lord taught us.
 
-Our Father who art in heaven,\
+**Our Father who art in heaven,\
 hallowed be thy name.\
 Thy kingdom come.\
 Thy will be done\
@@ -280,7 +280,7 @@ Give us this day our daily bread,\
 and forgive us our trespasses,\
 as we forgive those who trespass against us,\
 and lead us not into temptation,\
-but deliver us from evil.
+but deliver us from evil.**
 
 \* Having brought our needs before the LORD, let us give in faith to his
 work.
@@ -296,7 +296,7 @@ confess that faith together.
 Creed[^13]
 ----------
 
-\[Pastor\] Christian, what do you believe
+\[Pastor\] Christian, what do you believe?
 
 **\[All\] I believe in God, the Father Almighty,\
 Maker of heaven and earth.\
@@ -322,14 +322,19 @@ Invitation and fencing[^14]
 
 \[Pastor\] We have just confessed our faith together. We have confessed
 that through faith in Christ our sins are forgiven. If this is your
-confession, then in a moment we will share a meal together through which
-our Savior promises to strengthen us by faith. But if this is not your
+confession, then in a moment we will share a meal together, in which
+our Savior promises to be present with us and to strengthen us by faith.But if this is not your
 confession, or if you have not made your confession known to a body of
 believers and joined yourself to them, then I invite you not to partake,
 as doing so would be both untruthful and harmful to you. Instead, I
 invite you to watch and consider whether or not these things are so, and
 to talk with me or one of the elders about any questions you have. We
 are glad you are with us.
+
+Lastly, if there are any brothers and sisters here today with significant grievances,
+then I would also urge you not to partake, but to go, even now, and be reconciled to
+one another. For it is not Christ's will that you should express by eating together a unity
+which you do not share in truth.
 
 **Words of Institution**[^15]
 
@@ -339,7 +344,7 @@ which is for you. Do this in remembrance of me.” In the same way also he
 took the cup, after supper, saying, “This cup is the new covenant in my
 blood. Do this, as often as you drink it, in remembrance of me.” For as
 often as you eat this bread and drink the cup, you proclaim the Lord's
-death until he comes. *(1 Corinthians 11:23-26)*
+death until he comes (1 Corinthians 11:23-26).
 
 Eucharistic Prayer[^16]
 -----------------------
@@ -347,9 +352,8 @@ Eucharistic Prayer[^16]
 \[Pastor\] The Lord be with you.\
 **\[People\] And also with you.**\
 \[Pastor\] Lift up your hearts.\
-**\[People\] We lift them up to the Lord.\
-**\[Pastor\] Let us give thanks to the Lord our God.
-
+**\[People\] We lift them up to the Lord.**\
+\[Pastor\] Let us give thanks to the Lord our God.\
 **\[People\] It is right and just.**
 
 *From the Roman Missal*
@@ -362,10 +366,8 @@ and drink his blood, through which we have attained peace.
 Passing of the Peace[^17]
 -------------------------
 
-\[Pastor\] The peace of the Lord Jesus Christ be with you.
-
-**\[People\] And also with you.**
-
+\[Pastor\] The peace of the Lord Jesus Christ be with you.\
+**\[People\] And also with you.**\
 \[Pastor\] Please give one another the sign of peace.
 
 *One minute will be allotted for the passing of the peace.*
@@ -378,7 +380,7 @@ Communion
 ---------
 
 *The bread is distributed, the pastor says,* “The body of Christ, broken
-for you~,~” *and all eat together. Then follows the wine, the pastor
+for you,” *and all eat together. Then follows the wine, the pastor
 says,* “The blood of Christ, shed for you,” *and all drink together*.
 
 \* “For my flesh is true food, and my blood is true drink. Whoever feeds on
@@ -415,7 +417,7 @@ Benediction[^19]
 
 \[Pastor\] The LORD bless you and keep you; the LORD make his face to
 shine upon you and be gracious to you; the LORD lift up his countenance
-upon you and give you peace. *(Numbers 6:24-26)*
+upon you and give you peace (Numbers 6:24-26).
 
 [^1]: The call to worship is, first and foremost, a call from the LORD
     to his people. As an invitation to join with the heavenly hosts in
@@ -451,7 +453,7 @@ upon you and give you peace. *(Numbers 6:24-26)*
 [^7]: The Scripture reading and the sermon form the climax of the first
     part of the liturgy. Having come into God’s presence and received
     pardon for their sins of the previous week, the people are prepared
-    to hear for God through his appointed minister.
+    to hear from God through his appointed minister.
 
 [^8]: The service prayer is distinguished from the prayer of
     illumination in that it has in view the word *already heard*.
@@ -480,7 +482,7 @@ upon you and give you peace. *(Numbers 6:24-26)*
 [^12]: Like Calvin, I have chosen not to call this an offertory, in
     order to avoid confusion over the means of forgiveness (or, as
     Chapell notes, the purpose of the sermon). The collection is
-    included in the Liturgy of the Upper Room, which focuses upon the
+    included in the Liturgy of the Upper Room (the second part of the service), which focuses upon the
     communion which believers share with one another as they all share
     communion with Christ. Gifts are given for the ministries of the
     church, in which all participate. It comes after the intercessory
@@ -491,15 +493,14 @@ upon you and give you peace. *(Numbers 6:24-26)*
     the whole congregation and the people of God of all ages. This
     united confession prepares the congregation for the Lord’s Supper,
     in which they will as one confessing body partake of the body and
-    blood the Lord. I have not specified a particular creed, though the
-    sake of memorization I would keep the number of creeds used from
-    week to week small. I would personally recommend the Apostles Creed,
-    the Nicene Creed, and the Athanasian Creed.
+    blood the Lord. I would not repeat the same creed every week, but for the
+    sake of memorization I would also keep the number of creeds used small.
+	I would personally recommend the Apostles’ Creed, the Nicene Creed, and the Athanasian Creed.
 
 [^14]: Having confessed the essentials of the faith, those for whom such
-    a confession is not true are warmed against partaking unworthily,
+    a confession is not true are warmed against partaking unworthily, as
     are those in unrepentant sin and unreconciled relationships (which
-    are also denials of the truths expressed in the creed).
+    are likewise denials of the truths expressed in the creed).
 
 [^15]: The words of institution provide both the remembrance and the
     command to celebrate the supper. The words themselves do not
@@ -507,7 +508,7 @@ upon you and give you peace. *(Numbers 6:24-26)*
     of Christ’s action both in time and in our life as a corporate body.
 
 [^16]: The Eucharistic prayer enfolds other traditional elements of the
-    Eucharistic service such as the sursum corda and the epiclesis. It
+    Eucharistic service such as the *Sursum Corda* and the *Epiclesis*. It
     is placed after the *Verba* for the reasons outlined above.
 
 [^17]: Before partaking of the elements and communing with their Lord,

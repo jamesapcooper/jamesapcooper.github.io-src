@@ -4,9 +4,9 @@ author = "James Cooper"
 date = "2017-01-19"
 +++
 
-# Experience
+# Field Experience
 
-**Led weekly small group at Kirk of the Hills Presbyterian Church in St. Louis, Missouri (October 2016— ).**
+**Led weekly small group at Kirk of the Hills Presbyterian Church in St. Louis, Missouri (October 2016—April 2017).**
 
 -   Led older adults through discussion of sermon from previous Sunday.
 
@@ -20,15 +20,15 @@ date = "2017-01-19"
 -   Worked with team to refine methods and develop vision for
     discipleship of older adults.
 
-**Led worship at NHC Healthcare in St. Charles, Missouri and The Villages of St. Peters in St. Peters, Missouri (September 2016— ).**
+**Led worship at NHC Healthcare in St. Charles, Missouri and The Villages of St. Peters in St. Peters, Missouri (September 2016—May 2017).**
 
--   Planned and conducted worship services once a month for older adults
+-   Planned and conducted worship services (with preaching) once a month for older adults
 
 **Sunday School teacher at Kirk of the Hills Presbyterian Church in St. Louis, Missouri (Summers 2015—16).**
 
 -   Planned and conducted summer Sunday school lessons for elementary aged children.
 
-**Led Children’s Worship at Kirk of the Hills Presbyterian Church in St. Louis, Missouri(October 2015— ).**
+**Led Children’s Worship at Kirk of the Hills Presbyterian Church in St. Louis, Missouri (October 2015—March 2017).**
 
 -   Prepared and conducted children’s worship services.
 
@@ -40,16 +40,16 @@ date = "2017-01-19"
 
 # Education
 
-**Master of Divinity**. Covenant Theological Seminary. 2014—2017 (expected).
+**Master of Divinity**. Covenant Theological Seminary. 2014—2017. *Cum Laude.*
 
-**Bachelor of Science in Economics**. University of Minnesota. 2010—2014.
+**Bachelor of Science in Economics (2nd Major, Mathematics)**. University of Minnesota. 2010—2014. *Cum Laude.*
 
 # Employment
 
-**Kirk Day School. St. Louis, Missouri. After-school care worker. September 2016—**
+**Kirk Day School.** St. Louis, Missouri. After-school care worker. September 2016—May 2017.
 
-**Chesterfield Presbyterian Church. Chesterfield, Missouri. Custodian. February—December 2015**
+**Chesterfield Presbyterian Church.** Chesterfield, Missouri. Custodian. February—December 2015.
 
-**United Parcel Service. Minneapolis, Minnestota. Small Package Sorter. May—August 2014**
+**United Parcel Service.** Minneapolis, Minnesota. Small Package Sorter. May—August 2014.
 
-**Cafe 57. Chicago, Illinois. Barista. Summers 2011—12**
+**Café 57. Chicago, Illinois. Barista. Summers 2011—12.**
