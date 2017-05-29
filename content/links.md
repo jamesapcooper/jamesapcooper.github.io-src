@@ -12,4 +12,4 @@ date = "2017-01-23"
 
 [Presbyterian Church in America](http://www.pcanet.org/) The denomination to which I belong.
 
-[Covenant Theological Seminary](https://www.covenantseminary.edu/) The seminary I currently attend.
+[Covenant Theological Seminary](https://www.covenantseminary.edu/) The seminary where I received my pastoral training.
