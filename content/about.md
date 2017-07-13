@@ -12,9 +12,9 @@ Welcome to my personal site on the web. Here you will find information related t
 
 ## Who am I?
 
-My name is James Cooper. I am a Chicago native, currently studying in my third and final year at Covenant Theological Seminary near St. Louis, Missouri. I have been married two years to my wonderful wife Madeleine (in exile from the great state of Minnesota). We live in Overland, Missouri with our dog Teddy and cat Annabelle.
+My name is James Cooper. I am a Chicago native, and a graduate of Covenant Theological Seminary near St. Louis, Missouri. I have been married two years to my wonderful wife Madeleine (in exile from the great state of Minnesota). We currently live on the West side of Chicago with our dog Teddy and cat Annabelle.
 
-In anticipation of graduating this coming May, I am currently in the process of seeking a call. My ideal first position would be as a pastoral apprentice or assistant pastor working alongside an experienced minister or ministerial team. I am eager to learn, and would desire opportunities to continue growth in teaching, preaching, and ministering to adults.
+Both my wife and I graduated from seminary in May of 2017, after which I was graciously afforded the opportunity to teach at [Clapham School](http://claphamschool.org/) in Wheaton, Illinois. Clapham is a Christian school rooted in the classical tradition and the writings of [Charlotte Mason](https://www.amblesideonline.org/WhatIsCM.shtml).
 
 ## What do I believe?
 

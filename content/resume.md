@@ -46,10 +46,12 @@ date = "2017-01-19"
 
 # Employment
 
+**Clapham School.** Wheaton, Illinois. Mathematics teacher and Assistant Director of Athletics. August 2017—
+
 **Kirk Day School.** St. Louis, Missouri. After-school care worker. September 2016—May 2017.
 
 **Chesterfield Presbyterian Church.** Chesterfield, Missouri. Custodian. February—December 2015.
 
 **United Parcel Service.** Minneapolis, Minnesota. Small Package Sorter. May—August 2014.
 
-**Café 57. Chicago, Illinois. Barista. Summers 2011—12.**
+**Café 57.** Chicago, Illinois. Barista. Summers 2011—12.
