@@ -1,7 +1,7 @@
 +++
 title = "Resume"
 author = "James Cooper"
-date = "2017-01-19"
+date = "2017-08-01"
 +++
 
 # Field Experience

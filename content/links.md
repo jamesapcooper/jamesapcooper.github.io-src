@@ -8,7 +8,9 @@ date = "2017-01-23"
 
 [Westminster Confession of Faith](https://www.opc.org/wcf.html) The confession of the Presbyterian tradition.
 
-[Kirk of the Hills](http://www.thekirk.org/#welcome) The church where my wife and I are members. Come worship with us at 10 am on Sundays.
+[Bethel Christian Church](http://bethelchristian.church/) The church my wife and I currently attend. Come worship with us at 10 am on Sundays.
+
+[Kirk of the Hills](http://www.thekirk.org/#welcome) The church where my wife were members during seminary. Worship at 10 am on Sundays.
 
 [Presbyterian Church in America](http://www.pcanet.org/) The denomination to which I belong.
 
