@@ -3,7 +3,7 @@ title = "Building Golden Calves (Exodus 32:1–10)"
 author = "James Cooper"
 date = "2018-10-09"
 categories = ["Sermons"]
-tags = ["Exodus”,“idolatry"]
+tags = ["Exodus","idolatry"]
 +++
 
 *The following message was delivered on October 9, 2018 to the students
