@@ -1,5 +1,5 @@
 +++
-title = "For Whom Did Christ Come? (Mt 15:21—28)"
+title = "For Whom Did Christ Come? (Mt 15:21–28)"
 author = "James Cooper"
 date = "2017-03-12"
 categories = ["Sermons"]
