@@ -14,7 +14,7 @@ date = "2018-10-29"
 
 **Clapham School.** Wheaton, Illinois. High School Teacher. August 2017—
 
-- Designed and implemented new courses in Calculus and Economics, as with plans for additions in the future
+- Designed and implemented new courses in Calculus and Economics, with plans for additions in the future
 
 - Taught high school humanities, a course integrating writing, literature, philosophy, and theology
 

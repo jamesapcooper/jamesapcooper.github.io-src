@@ -31,10 +31,6 @@ googleAnalytics = "UA-90373702-1" # Enable Google Analytics by entering your tra
     name = "Links"
     weight = -100
     url = "/links/"
-[[menu.main]]
-    name = "Addresses"
-    weight = -100
-    url = "/categories/addresses/"
 
 
 [Params]
