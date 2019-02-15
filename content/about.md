@@ -6,13 +6,13 @@ date = "2017-08-01"
 
 Welcome to my personal site on the web. Here you will find information related to my training, ministry, interests, and writing.
 
-<img src=/images/zoo_photo.jpg alt="At the zoo." width=60%>
+<img src=/images/zoo_photo.jpg alt="At the zoo." width=60%> <img src=/images/Benjamin.jpg alt="At the zoo." width=30%>
 
 # Biography
 
 ## Who am I?
 
-My name is James Cooper. I am a Chicago native, and a graduate of Covenant Theological Seminary near St. Louis, Missouri. I have been married two years to my wonderful wife Madeleine (in exile from the great state of Minnesota). We currently live on the West side of Chicago with our dog Teddy and cat Annabelle.
+My name is James Cooper. I am a Chicago native, and a graduate of Covenant Theological Seminary near St. Louis, Missouri. I have been married four years to my wonderful wife Madeleine (in exile from the great state of Minnesota). We currently live in West Chicago with our son Benjamin.
 
 Both my wife and I graduated from seminary in May of 2017, after which I was graciously afforded the opportunity to teach at [Clapham School](http://claphamschool.org/) in Wheaton, Illinois. Clapham is a Christian school informed by the [classical tradition](https://www.amazon.com/Liberal-Arts-Tradition-Philosophy-Christian/dp/1600512259) and the writings of [Charlotte Mason](https://www.amblesideonline.org/WhatIsCM.shtml).
 

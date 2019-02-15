@@ -6,7 +6,7 @@ categories = ["Sermons"]
 tags = ["topical", "money"]
 +++
 
-Delivered at [CityLife Church](http://citylifetc.org/) in St. Paul, Minnesota on October 23, 2016. [click here for recording](http://citylifetc.org/sermons/?sermon_id=336)
+*Delivered at [CityLife Church](http://citylifetc.org/) in St. Paul, Minnesota on October 23, 2016. [click here for recording](http://citylifetc.org/sermons/?sermon_id=336)*
 
 ## Introduction
 

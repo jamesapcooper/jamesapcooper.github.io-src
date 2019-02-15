@@ -36,8 +36,9 @@ date = "2018-10-29"
 
 **Interned with Trinity Presbyterian Church in Hinsdale, Illinois (September 2018—**
 
-- Taught adult Sunday school course on ethics
+- Taught adult Sunday school courses on ethics and reading scripture
 - Met regularly with the pastor to discuss ministry philosophy and practice
+- Preached on occasion
 
 **Led weekly small group at Kirk of the Hills Presbyterian Church in St. Louis, Missouri (October 2016—April 2017).**
 
