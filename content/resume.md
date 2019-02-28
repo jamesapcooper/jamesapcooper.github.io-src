@@ -4,21 +4,15 @@ author = "James Cooper"
 date = "2018-10-29"
 +++
 
-# Education
-
-**Master of Divinity**. Covenant Theological Seminary. 2014—2017. *Cum Laude.*
-
-**Bachelor of Science in Economics (2nd Major, Mathematics)**. University of Minnesota. 2010—2014. *Cum Laude.*
-
 # Employment
 
-**Clapham School.** Wheaton, Illinois. High School Teacher. August 2017—
+**Clapham School.** Wheaton, Illinois. High School Teacher. August 2017— .
+
+- Give regular talks from the Bible for Monday morning chapel
+
+- Teach high school humanities, a course integrating writing, literature, philosophy, and theology
 
 - Designed and implemented new courses in Calculus and Economics, with plans for additions in the future
-
-- Taught high school humanities, a course integrating writing, literature, philosophy, and theology
-
-- Gave regular talks from the Bible for Monday morning chapel
 
 - Taught Algebra 2, Precalculus, and Elementary Physical Education (Grades K—5)
 
@@ -34,11 +28,11 @@ date = "2018-10-29"
 
 # Field Experience
 
-**Interned with Trinity Presbyterian Church in Hinsdale, Illinois (September 2018—**
+**Intern with Trinity Presbyterian Church in Hinsdale, Illinois (September 2018— )**
 
-- Taught adult Sunday school courses on ethics and reading scripture
-- Met regularly with the pastor to discuss ministry philosophy and practice
-- Preached on occasion
+- Teachh adult Sunday school courses on ethics and reading scripture
+- Meet regularly with the pastor to discuss ministry philosophy and practice
+- Preach on occasion
 
 **Led weekly small group at Kirk of the Hills Presbyterian Church in St. Louis, Missouri (October 2016—April 2017).**
 
@@ -71,3 +65,9 @@ date = "2018-10-29"
 -   Designed and conducted studies for younger students and peers
 
 -   Aided campus minister in assessing relationships and discipleship needs of younger students
+
+# Education
+
+**Master of Divinity**. Covenant Theological Seminary. 2014—2017. *Cum Laude.*
+
+**Bachelor of Science in Economics (2nd Major, Mathematics)**. University of Minnesota. 2010—2014. *Cum Laude.*

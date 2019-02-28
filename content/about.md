@@ -6,7 +6,7 @@ date = "2017-08-01"
 
 Welcome to my personal site on the web. Here you will find information related to my training, ministry, interests, and writing.
 
-<img src=/images/zoo_photo.jpg alt="At the zoo." width=60%> <img src=/images/Benjamin.jpg alt="Our son, Benjamin." width=30%>
+<img src=/images/zoo_photo.jpg alt="At the zoo." width=50%> <img src=/images/Benjamin.jpg alt="Our son, Benjamin." width=40%>
 
 # Biography
 
