@@ -7,7 +7,7 @@ tags = ["Ecclesiastes","Wisdom"]
 +++
 
 *The following message was delivered on May 26, 2018 to the
-congregation of [Trinity Prebyterian Church](https://www.trinityhinsdale.com/) in Hinsdale, Illinois. [click here for recording](https://drive.google.com/open?id=1w-BybXmgc8gze2dLFwM4pwxgR-lHwPHg)*
+congregation of [Trinity Prebyterian Church](https://www.trinityhinsdale.com/) in Hinsdale, Illinois. [click here for recording](https://drive.google.com/open?id=1fGuKToxol9q0OwXRhUfKmEyrekyIizxH)*
 
 Ecclesiastes is one of those books of the Bible that, when you read it,
 you almost wonder how it made it in. Maybe that's just me, but
