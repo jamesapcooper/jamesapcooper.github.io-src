@@ -1,16 +1,16 @@
 +++
 title = "Resume"
 author = "James Cooper"
-date = "2018-10-29"
+date = "2019-07-30"
 +++
 
 # Employment
 
-**Clapham School.** Wheaton, Illinois. High School Teacher. August 2017— .
+**Clapham School.** Wheaton, Illinois. High School Teacher. July 2017—July 2019.
 
-- Give regular talks from the Bible for Monday morning chapel
+- Gave regular talks from the Bible for Monday morning chapel
 
-- Teach high school humanities, a course integrating writing, literature, philosophy, and theology
+- Taught high school humanities, a course integrating writing, literature, philosophy, and theology
 
 - Designed and implemented new courses in Calculus and Economics, with plans for additions in the future
 
@@ -28,11 +28,11 @@ date = "2018-10-29"
 
 # Field Experience
 
-**Intern with Trinity Presbyterian Church in Hinsdale, Illinois (September 2018— )**
+**Intern with Trinity Presbyterian Church in Hinsdale, Illinois (September 2018—June 2019)**
 
-- Teachh adult Sunday school courses on ethics and reading scripture
-- Meet regularly with the pastor to discuss ministry philosophy and practice
-- Preach on occasion
+- Taught adult Sunday school courses on ethics and reading scripture
+- Met regularly with the pastor to discuss ministry philosophy and practice
+- Preached on occasion
 
 **Led weekly small group at Kirk of the Hills Presbyterian Church in St. Louis, Missouri (October 2016—April 2017).**
 
