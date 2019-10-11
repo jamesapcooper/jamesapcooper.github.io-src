@@ -6,7 +6,7 @@ date = "2017-08-01"
 
 Welcome to my personal site on the web. Here you will find information related to my training, ministry, interests, and writing.
 
-<img src=/images/zoo_photo.jpg alt="At the zoo." width=50%> <img src=/images/Benjamin.jpg alt="Our son, Benjamin." width=40%>
+<img src=/images/Cooper_Family.JPG alt="Family photo" width=100%>
 
 # Biography
 
@@ -15,6 +15,10 @@ Welcome to my personal site on the web. Here you will find information related t
 My name is James Cooper. I am a Chicago native, and a graduate of Covenant Theological Seminary near St. Louis, Missouri. I have been married four years to my wonderful wife Madeleine (in exile from the great state of Minnesota). We currently live in West Chicago with our son Benjamin.
 
 Both my wife and I graduated from seminary in May of 2017, after which I was graciously afforded the opportunity to teach at [Clapham School](http://claphamschool.org/) in Wheaton, Illinois. Clapham is a Christian school informed by the [classical tradition](https://www.amazon.com/Liberal-Arts-Tradition-Philosophy-Christian/dp/1600512259) and the writings of [Charlotte Mason](https://www.amblesideonline.org/WhatIsCM.shtml).
+
+No longer a teacher, I am currently seeking a call to pastoral ministry. I am passionate about preaching and Christian education. In my personal reading and study I am exploring the intersection of classical learning, biblical anthropology, and ministry. I consider myself an (amateur) student of the Reformation and especially the life and work of Martin Luther.
+
+My hobbies include reading, roasting coffee, tinkering with open-source softwre, and slowly making my way through an ever-growing feed of podcasts.
 
 ## What do I believe?
 
