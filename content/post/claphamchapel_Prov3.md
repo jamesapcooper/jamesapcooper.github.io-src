@@ -3,6 +3,7 @@ title = "Why Follow the Path of Wisdom? (Proverbs 3:13–20)"
 author = "James Cooper"
 date = "2017-11-27"
 categories = ["Sermons"]
+type = "posts"
 tags = ["Proverbs","wisdom"]
 +++
 

@@ -4,6 +4,7 @@ author = "James Cooper"
 date = "2017-03-12"
 categories = ["Sermons"]
 tags = ["Matthew", "lent"]
+type = "posts"
 +++
 
 Delivered at the [Villages of St. Peters](http://www.vofsp.com/) in St. Peters, Missouri on March 12, 2017. [click here for recording](https://drive.google.com/open?id=0B_fmE7Mo2KD0aENYMThwNFlzQ0E)

@@ -3,6 +3,7 @@ title = "Annotated Sunday Liturgy"
 author = "James Cooper"
 date = "2017-01-23"
 categories = ["Papers"]
+type = "posts"
 tags = ["liturgy"]
 +++
 

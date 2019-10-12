@@ -3,6 +3,7 @@ title = "Is Money Evil?"
 author = "James Cooper"
 date = "2016-10-23"
 categories = ["Sermons"]
+type = "posts"
 tags = ["topical", "money"]
 +++
 

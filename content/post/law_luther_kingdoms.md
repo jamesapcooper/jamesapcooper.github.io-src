@@ -3,6 +3,7 @@ title = "Law, Luther, and the Two Kingdoms"
 author = "James Cooper"
 date = "2016-12-31"
 categories = ["Papers"]
+type = "posts"
 tags = ["luther", "law", "law and gospel", "romans", "two kingdoms"]
 +++
 

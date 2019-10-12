@@ -1,47 +1,82 @@
-baseurl = "/"
-title = "James Cooper"
+baseURL = "/"
 languageCode = "en-us"
-paginate = "10" # Number of posts per page
-theme = "mainroad"
-# disqusShortname = "" # Enable comments by entering your Disqus shortname
-googleAnalytics = "UA-90373702-1" # Enable Google Analytics by entering your tracking id
+title = "James Cooper"
+theme = "ezhil"
 
-# Main Menu Items
+copyright = "© 2017-19 James Cooper"
+
+# Enable syntax highlighting.
+pygmentsstyle = "vs"
+pygmentscodefences = true
+pygmentscodefencesguesssyntax = true
+
+# Your Google analytics code.
+googleAnalytics = "UA-90373702-1"
+# Your Disqus sortname.
+# disqusShortname = "localhost"
+
+# Number of posts to show in recent posts list (Optional). Defaults to 10.
+paginate = 10
+
+[params]
+    # Blog subtitle which appears below blog title. Supports markdown.
+    subtitle = "Verbum Domini Manet in Aeternum"
+    # Content types which are included in home page recent posts list.
+    mainSections = ["posts"]
+    # Content types which are excludes Disqus comments.
+    disableDisqusTypes = ["page"]
+    # If social media links are enabled then enable this to fetch icons from CDN instead of hosted on your site.
+    featherIconsCDN = true
+    # Specify favicon (icons/i.png maps to static/icons/i.png). No favicon if not defined.
+    favicon = "images/favicon.png"
+
+# Main menu which appears below site header.
+[[menu.main]]
+	name = "Home"
+	url = "/"
+	weight = 1
 [[menu.main]]
     name = "About"
-    weight = -110
+    weight = 2
     url = "/about/"
 [[menu.main]]
     name = "Contact"
-    weight = -100
+    weight = 3
     url = "/contact/"
 [[menu.main]]
     name = "Resume"
-    weight = -110
+    weight = 4
     url = "/resume/"
 [[menu.main]]
     name = "Papers"
-    weight = -100
+    weight = 5
     url = "/categories/papers/"
 [[menu.main]]
     name = "Sermons"
-    weight = -100
+    weight = 6
     url = "/categories/sermons/"
 [[menu.main]]
     name = "Links"
-    weight = -100
+    weight = 7
     url = "/links/"
+[[menu.main]]
+	name = "Tags"
+	url = "/tags"
+	weight = 8
 
+# Social media links which shows up on site header.
+# Uses feather icons for icons. You can [search icon names from here](https://feathericons.com/).
+# [[params.social]]
+# name = "Github"
+# icon = "github"
+# url = "https://github.com/vividvilla/ezhil"
 
-[Params]
-    subtitle = "Verbum Domini Manet in Aeternum"
-    description = "The personal webpage of James Cooper." # Description of your site
-    opengraph = true
-    leftsidebar = false # Move sidebar to the left side if true
+# [[params.social]]
+# name = "Twitter"
+# icon = "twitter"
+# url = "https://twitter.com/gohugoio"
 
-
-[Params.widgets]
-    search = false # Enable "Search" widget
-    recent_articles = true # Enable "Recent articles" widget
-    categories = true # Enable "Categories" widget
-    tags = true # Enable "Tags" widget
+# Enable tags.
+[taxonomies]
+   tag = "tags"
+   category = "categories"

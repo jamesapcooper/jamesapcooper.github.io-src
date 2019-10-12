@@ -3,6 +3,7 @@ title = "Life Under the Sun (Ecclesiastes 2)"
 author = "James Cooper"
 date = "2019-05-26"
 categories = ["Sermons"]
+type = "posts"
 tags = ["Ecclesiastes","Wisdom"]
 +++
 

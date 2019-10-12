@@ -3,6 +3,7 @@ title = "Christian Freedom According to Galatians, Luther, and the Westminster C
 author = "James Cooper"
 date = "2017-01-04"
 categories = ["Papers"]
+type = "posts"
 tags = ["luther", "galatians", "law and gospel", "westminster standards", "two kinds of righteousness", "christian freedom"]
 +++
 
