@@ -1,10 +1,15 @@
 +++
 title = "Resume"
 author = "James Cooper"
-date = "2019-07-30"
+date = "2020-03-02"
 +++
 
 # Employment
+
+**Boulevard Presbyterian Church.** Oak Park, Illinois. Assistant Director of Ministries. January 2020— .
+
+- Administrative duties including worship bulletin and newsletter creation, sermon editing, and offering tracking.
+- Occasional preaching and teaching.
 
 **Clapham School.** Wheaton, Illinois. High School Teacher. July 2017—July 2019.
 
