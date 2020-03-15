@@ -6,7 +6,7 @@ date = "2019-10-11"
 
 Welcome to my personal site on the web. Here you will find information related to my training, ministry, interests, and writing.
 
-<img src=/images/Cooper_Family.JPG alt="Family photo" width=80%>
+![family photo](/images/Cooper_Family.JPG "family photo")
 
 # Biography
 
