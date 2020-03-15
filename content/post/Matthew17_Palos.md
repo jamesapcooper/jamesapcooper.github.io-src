@@ -7,7 +7,7 @@ type = "posts"
 tags = ["Matthew","Transfiguration","Suffering"]
 +++
 
-*The following sermon was delivered on May 26, 2018 to the
+*The following sermon was delivered on February 23, 2020 to the
 congregation of [Redemption Prebyterian Church](https://www.redemptionpres.com/) in Palos Heights, Illinois. [click here for recording](https://drive.google.com/open?id=1MBEBlrRgKIOCI8ncqomjsLjGmosg0NJ7)*
 
 Good morning, my name is James Cooper, I’m here visiting with my wife,

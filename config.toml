@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "James Cooper"
 theme = "ezhil"
 
-copyright = "© 2017-19 James Cooper | Banner Attribution: Hilton1949 at English Wikipedia"
+copyright = "© 2017–20 James Cooper | Banner Attribution: Hilton1949 at English Wikipedia"
 
 # Enable syntax highlighting.
 pygmentsstyle = "vs"
